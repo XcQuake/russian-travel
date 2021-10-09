@@ -2,18 +2,18 @@
   margin: 64px 0 0;
 }
 
-@media screen and (max-width: 1024px) {
+@media (max-width: 1024px) {
   .lead__figure {
     margin-top: 56px;
   }
 }
 
-@media screen and (max-width: 925px) {
+@media (max-width: 925px) {
   .lead__figure {
   }
 }
 
-@media screen and (max-width: 425px) {
+@media (max-width: 425px) {
   .lead__figure {
     margin-top: 40px;
   }

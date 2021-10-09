@@ -45,7 +45,6 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subttitle/cover__subtitle.css);
-@import url(../blocks/cover/__background/cover__background.css);
 
 /* Подвал */
 @import url(../blocks/footer/footer.css);

@@ -7,14 +7,14 @@
   gap: 14px;
 }
 
-@media screen and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .photo-grid {
     max-width: calc(100% - 48px);
     margin: 88px auto;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media (max-width: 425px) {
   .photo-grid {
     max-width: calc(100% - 32px);
     margin: 64px auto;
