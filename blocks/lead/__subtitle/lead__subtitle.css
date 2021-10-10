@@ -1,9 +1,8 @@
 .lead__subtitle {
-  display: inline-block;
+  margin: 32px auto 0;
   font-size: 30px;
   line-height: 36px;
   max-width: 540px;
-  margin: 32px 0 0;
 }
 
 @media (max-width: 767px) {

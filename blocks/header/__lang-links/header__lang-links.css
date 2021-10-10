@@ -1,3 +1,4 @@
-.header__lang-inks {
+.header__lang-links {
 	display: flex;
+	align-self: flex-end;
 }
